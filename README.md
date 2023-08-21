@@ -13,3 +13,5 @@
           <img src="https://github-readme-stats.vercel.app/api?username=kamuiryu&show_icons=true" />
     </picture>
 </div>
+
+![snake animation](https://github.com/kamuiryu/kamuiryu/blob/output/github-contribution-grid-snake2.svg)
