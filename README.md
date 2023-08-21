@@ -1,4 +1,4 @@
-## Olá! Eu sou o Isac
+## Olá, Eu sou o Isac
 
  <div>
   <a href="https://github.com/kamuiryu">
@@ -21,7 +21,11 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Socials:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/isacsantana/)
+### Contato:
+<div> 
+  <a href="https://www.linkedin.com/in/isacsantana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto: isac.santana.souza@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%230078D4?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+ </br>
+</div>
 
 ![Snake animation](https://github.com/kamuiryu/kamuiryu/blob/output/github-contribution-grid-snake.svg)
