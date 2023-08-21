@@ -37,8 +37,6 @@
 
  ##
 
-<p align="center" width="100%">
- ![snake animation](https://github.com/kamuiryu/kamuiryu/blob/output/github-contribution-grid-snake.svg)
-</p>
+![snake animation](https://github.com/kamuiryu/kamuiryu/blob/output/github-contribution-grid-snake.svg)
 
 
