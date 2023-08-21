@@ -28,7 +28,9 @@
 
  ##
 
-### Contato
+<p align="center" width="100%">
+ ### Contato 
+</p>
 <p align="center" width="100%"><br>
   <a href="https://www.linkedin.com/in/isacsantana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto: isac.santana.souza@outlook.com.br"><img src="https://img.shields.io/badge/-Outlook-%230078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
