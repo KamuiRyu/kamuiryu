@@ -32,4 +32,4 @@
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/isacsantana/)
 
-![snake animation](https://github.com/kamuiryu/kamuiryu/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/kamuiryu/kamuiryu/blob/output/github-contribution-grid-snake.svg)
