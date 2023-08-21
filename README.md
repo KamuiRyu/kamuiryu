@@ -1,5 +1,5 @@
 ## Olá, Eu sou o Isac
-
+<div style="text-align:center">
  <div><br>
    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamuiryu&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
    <br><br>
@@ -39,3 +39,5 @@
  ##
 
 ![snake animation](https://github.com/kamuiryu/kamuiryu/blob/output/github-contribution-grid-snake.svg)
+
+</div>
