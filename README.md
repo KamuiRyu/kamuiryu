@@ -6,7 +6,7 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamuiryu&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide=issues"/>
  <br>
  </div>
-
+</p>
  ##
 
 ### Habilidades
@@ -40,4 +40,4 @@
 
 ![snake animation](https://github.com/kamuiryu/kamuiryu/blob/output/github-contribution-grid-snake.svg)
 
-</p>
+
