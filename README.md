@@ -2,7 +2,7 @@
 
  <div><br>
    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamuiryu&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
-   <br>
+   <br><br>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamuiryu&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide=issues"/>
  <br>
  </div>
