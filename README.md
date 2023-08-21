@@ -1,7 +1,8 @@
 ## Olá, Eu sou o Isac
  <div align="center" width="100%" style="display:inline-block"><br>
-   <img align="center" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamuiryu&layout=compact&langs_count=16&theme=github_dark"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamuiryu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamuiryu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues"/>
+   <img align="center" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamuiryu&layout=compact&langs_count=16&theme=github_dark"/>
+   
  <br>
  </div>
  
