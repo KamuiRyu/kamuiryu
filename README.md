@@ -4,9 +4,8 @@
    <br><br>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamuiryu&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide=issues"/>
  <br>
- </p align="center" width="100%">
 
- ##
+  ##
 
 ### Habilidades
 <p align="center" width="100%"><br>
