@@ -25,4 +25,4 @@
  </br>
 </div>
 
-![Snake animation](https://github.com/kamuiryu/kamuiryu/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/kamuiryu/kamuiryu/blob/output/github-contribution-grid-snake.svg)
