@@ -13,6 +13,12 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamuiryu&layout=compact&hide_border=true&title_color=58A6FF&text_color=d9eaff&bg_color=0d1117" />
 </div>
 
+<p align="center" width="100%"><br>
+  <a href="https://www.linkedin.com/in/isacsantana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto: isac.santana.souza@outlook.com.br"><img src="https://img.shields.io/badge/-Outlook-%230078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
+ <br>
+</p>
+
   ##
 
 ### Habilidades
@@ -32,15 +38,4 @@
   <img align="center" alt="Isac-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <br>
 </p>
-
- ##
-
- ### Contato 
-
-<p align="center" width="100%"><br>
-  <a href="https://www.linkedin.com/in/isacsantana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto: isac.santana.souza@outlook.com.br"><img src="https://img.shields.io/badge/-Outlook-%230078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
- <br>
-</p>
-
 
