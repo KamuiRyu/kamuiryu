@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+%F0%9F%A4%9A;Meu+nome+%C3%A9+Isac.;Tenho+23+anos.;Seja+bem-vindo!)](https://git.io/typing-svg)
+<p align="center" width="100%">
+ <br>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+%F0%9F%A4%9A;Meu+nome+%C3%A9+Isac.;Tenho+23+anos.;Seja+bem-vindo!)](https://git.io/typing-svg)
+ <br>
+ </p>
+
  <div align="center" width="100%" style="display:inline-block"><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamuiryu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues"/>
    <img align="center" height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamuiryu&layout=compact&langs_count=16&theme=github_dark"/>
