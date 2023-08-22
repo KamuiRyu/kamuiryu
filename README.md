@@ -1,7 +1,9 @@
 <p align="center" width="100%">
  <br>
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+%F0%9F%A4%9A;Meu+nome+%C3%A9+Isac.;Tenho+23+anos.;Seja+bem-vindo!)](https://git.io/typing-svg)
- <br>
+ 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+%F0%9F%A4%9A;Meu+nome+%C3%A9+Isac.;Tenho+23+anos.;Seja+bem-vindo!)](https://git.io/typing-svg)
+ 
+  <br>
  </p>
 
  <div align="center" width="100%" style="display:inline-block"><br>
