@@ -2,13 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Isac.;Tenho+23+anos.;Seja+bem-vindo!)](https://git.io/typing-svg)
 
-
- <div align="center" width="100%" style="display:inline-block"><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamuiryu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues"/>
-   <img align="center" height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamuiryu&layout=compact&langs_count=16&theme=github_dark"/>
- <br>
- </div>
+<p align="center" width="100%">
  
+ ![snake animation](https://github.com/kamuiryu/kamuiryu/blob/output/github-contribution-grid-snake2.svg)
+
+</p>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kamuiryu&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=58A6FF&bg_color=0d1117" alt="Isac Santana github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamuiryu&layout=compact&hide_border=true&title_color=58A6FF&text_color=58A6FF&bg_color=0d1117" />
+</div>
+
   ##
 
 ### Habilidades
@@ -37,14 +41,6 @@
   <a href="https://www.linkedin.com/in/isacsantana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto: isac.santana.souza@outlook.com.br"><img src="https://img.shields.io/badge/-Outlook-%230078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
  <br>
-</p>
-
- ##
-
-<p align="center" width="100%">
- 
- ![snake animation](https://github.com/kamuiryu/kamuiryu/blob/output/github-contribution-grid-snake2.svg)
-
 </p>
 
 
