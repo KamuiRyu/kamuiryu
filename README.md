@@ -47,3 +47,12 @@
   <br>
 </p>
 
+
+<div align="center">
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{kamuiryu}/count.svg" /></p> 
+<br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/>
