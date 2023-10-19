@@ -4,7 +4,7 @@
 
 <p align="center" width="100%">
  
-![snake animation](https://github.com/KamuiRyu/kamuiryu/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/KamuiRyu/kamuiryu/blob/output/github-contribution-grid-snake-dark.svg)
 
 </p>
 
