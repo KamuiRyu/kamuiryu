@@ -8,7 +8,7 @@
 
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats-kamuiryus-projects.vercel.app/api?username=kamuiryu&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=d9eaff&bg_color=0d1117)
+![GitHub stats](https://github-readme-stats-kamuiryus-projects.vercel.app/api?username=kamuiryu&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=d9eaff&bg_color=0d1117)
 ![Top Langs](https://github-readme-stats-kamuiryus-projects.vercel.app/api/top-langs/?username=kamuiryu&layout=compact&hide_border=true&title_color=58A6FF&text_color=d9eaff&bg_color=0d1117)
 
 
