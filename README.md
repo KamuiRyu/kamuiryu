@@ -9,8 +9,8 @@
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kamuiryu&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=d9eaff&bg_color=0d1117" alt="Isac Santana github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamuiryu&layout=compact&hide_border=true&title_color=58A6FF&text_color=d9eaff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats-kamuiryus-projects.vercel.app/api?username=kamuiryu&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=d9eaff&bg_color=0d1117" alt="Isac Santana github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-kamuiryus-projects.vercel.app/api/top-langs/?username=kamuiryu&layout=compact&hide_border=true&title_color=58A6FF&text_color=d9eaff&bg_color=0d1117" />
 </div>
 
 <p align="center" width="100%"><br>
